@@ -1,0 +1,8 @@
+1) Change Color of Border
+   set border lw 3 lc rgb "white"
+2) Change Text color of ticks
+   set xticks textcolor rgb "white"
+   set yticks textcolor rgb "white"
+3) Change Text color of Label
+   set xlabel "<Label Name>" textcolor rgb "whie"
+   set ylabel "<Label Name>" textcolor rgb "whie"
